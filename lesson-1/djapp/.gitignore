@@ -1,0 +1,5 @@
+# python virtual env ignore use `virtualenv venv` to create one!
+venv
+.venv
+.env
+.env.local
